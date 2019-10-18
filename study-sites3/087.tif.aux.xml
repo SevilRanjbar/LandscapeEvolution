@@ -1,0 +1,20 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="SourceBandIndex">0</MDI>
+      <MDI key="STATISTICS_COVARIANCES">753.2614960501606</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1978.6536865234</MDI>
+      <MDI key="STATISTICS_MEAN">391.30114470744</MDI>
+      <MDI key="STATISTICS_MINIMUM">332.00955200195</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">27.445609777343</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
